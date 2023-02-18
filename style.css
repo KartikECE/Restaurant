@@ -1,0 +1,40 @@
+*{
+    background-color: black;
+}
+   #flex-container{
+    padding: 150px;
+    display: flex;
+   color: white;
+ 
+   }
+    .image{
+        margin: 40px;
+        justify-content: space-around;
+        width: 200px;
+        height: 200px;
+    }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:#09d847;
+  }
+  #heading{
+    color: whitesmoke;
+  }
